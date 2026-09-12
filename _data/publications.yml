@@ -1,0 +1,28 @@
+- title: "Finding Missed Optimizations in DBMSs through Unbalanced Short-Circuit Query Construction"
+  venue: "SIGMOD 2026"
+  selected: true
+  authors:
+    - Jinhui Lai
+    - Chi Zhang
+    - Jie Liang
+    - Zihao Zeng
+    - Zhiyong Wu
+    - Jingzhou Fu
+    - Chijin Zhou
+    - Shuai Ma
+    - Yu Jiang
+    - Zichen Xu
+
+- title: "SRS: Detecting Logic Bugs of Join Implementation in DBMSs via Set Relation Synthesis"
+  venue: "SIGMOD 2026"
+  selected: true
+  authors:
+    - Jinhui Lai
+    - Chi Zhang
+    - Binyan Li
+    - Chengling Liang
+    - Jie Liang
+    - Zhiyong Wu
+    - Jingzhou Fu
+    - Yu Jiang
+    - Zichen Xu
