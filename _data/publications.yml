@@ -1,3 +1,19 @@
+- title: "OraclePlate: Detecting Logic Bugs in DBMSs via Cascaded Rewriting-Based Test Oracle Composition"
+  venue: "SIGMOD 2027"
+  selected: false
+  authors:
+    - Yuxiao Guo
+    - Dawei Li
+    - Qifan Liu
+    - Jie Liang
+    - Zhiyong Wu
+    - Chi Zhang
+    - Jingzhou Fu
+    - Jinhui Lai
+    - Wenqian Deng
+    - Yu Jiang
+    - Zhenyu Guan
+
 - title: "Finding Missed Optimizations in DBMSs through Unbalanced Short-Circuit Query Construction"
   venue: "SIGMOD 2026"
   selected: true
