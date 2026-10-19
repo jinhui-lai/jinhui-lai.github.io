@@ -94,10 +94,14 @@
   img {
     max-width: 175px;
     min-width: 75px;
-    border-radius: 50%;
+    border-radius: 0;
 
     @include breakpoint($large) {
-      padding: 5px;
+      display: block;
+      width: 160px;
+      max-width: 100%;
+      min-width: 0;
+      padding: 4px;
       border: 1px solid $border-color;
     }
   }
@@ -113,7 +117,7 @@
 
   @include breakpoint($large) {
     display: block;
-    width: 100%;
+    width: 160px;
     padding-left: 0;
     padding-right: 0;
   }
@@ -163,6 +167,7 @@
 
   @include breakpoint($large) {
     display: block;
+    width: 160px;
   }
 
   button {

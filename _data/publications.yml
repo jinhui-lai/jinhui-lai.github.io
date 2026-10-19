@@ -1,3 +1,16 @@
+- title: "Finding Logic Bugs in DBMSs via Empty-Set Query Construction"
+  venue: "VLDB 2027"
+  selected: true
+  authors:
+    - Jinhui Lai
+    - Chi Zhang
+    - Jie Liang
+    - Zhiyong Wu
+    - Jingzhou Fu
+    - Shuai Ma
+    - Yu Jiang
+    - Zichen Xu
+
 - title: "OraclePlate: Detecting Logic Bugs in DBMSs via Cascaded Rewriting-Based Test Oracle Composition"
   venue: "SIGMOD 2027"
   selected: false
