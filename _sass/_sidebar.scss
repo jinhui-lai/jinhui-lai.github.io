@@ -149,6 +149,16 @@
   }
 }
 
+.author__affiliation {
+  margin: 0;
+
+  @include breakpoint($large) {
+    width: 160px;
+    margin-top: -10px;
+    margin-bottom: 20px;
+  }
+}
+
 .author__urls-wrapper {
   position: relative;
   display: table-cell;

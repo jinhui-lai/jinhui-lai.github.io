@@ -9,11 +9,6 @@
     <h3 class="author__name">{{ author.name }}</h3>
     <p class="author__bio"><a href="mailto:{{ author.email }}">{{ author.email }}</a></p>
     <p class="author__bio">{{ author.bio }}</p>
-  </div>
-
-  <div class="author__urls-wrapper">
-    <ul class="author__urls social-icons">
-      <li>{{ author.employer }}</li>
-    </ul>
+    <p class="author__affiliation">{{ author.employer }}</p>
   </div>
 </div>
